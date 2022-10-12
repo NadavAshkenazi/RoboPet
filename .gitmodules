@@ -4,3 +4,6 @@
 [submodule "BackEnd"]
 	path = BackEnd
 	url = https://github.com/NadavAshkenazi/robopet_be
+[submodule "FaceRecognition"]
+	path = FaceRecognition
+	url = https://github.com/NadavAshkenazi/RobopetFaceDetect
