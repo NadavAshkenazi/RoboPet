@@ -7,3 +7,6 @@
 [submodule "FaceRecognition"]
 	path = FaceRecognition
 	url = https://github.com/NadavAshkenazi/RobopetFaceDetect
+[submodule "application"]
+	path = application
+	url = https://github.com/NadavAshkenazi/robopet_app
